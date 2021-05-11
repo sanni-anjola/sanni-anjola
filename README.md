@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanni Lateef Anjola
-- 👀 I’m interested in Java, Python, JavaScript
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in Python, JavaScript
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Web and Machine learning.
 - 📫 How to reach me: sanni.anjola@gmail.com
 
