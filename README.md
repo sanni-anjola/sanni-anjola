@@ -11,9 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Connect with Me 🤝
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][instagram] **|** 
+👔 [linkedin][linkedin] **|** 
 🗃️ [Gmail] sanni.anjola@gmail.com
 
 [![Anjola's github stats](https://github-readme-stats.vercel.app/api?username=sanni-anjola)](https://github.com/sanni-anjola/github-readme-stats)
